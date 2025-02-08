@@ -29,7 +29,7 @@ function HOMEE() {
     setans(null)
 
     try {
-      let resp = await fetch("https://vercify-prototype.vercel.app/api/geminicall", {
+      let resp = await fetch("https://vercify-api-call.vercel.app/api/gemini", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
