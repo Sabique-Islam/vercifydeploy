@@ -10,11 +10,11 @@ const features =
     title: 'Advanced Fact Checking',
     description: 'Powered by Gemini-2.0 for accurate and reliable fact verification'
   },
-  {
-    icon: Upload,
-    title: 'Multiple Formats',
-    description: 'Support for text, PDF documents, and images'
-  },
+  // {
+  //   icon: Upload,
+  //   title: 'Multiple Formats',
+  //   description: 'Support for text, PDF documents, and images'
+  // },
   {
     icon: Users,
     title: 'Community Driven',
@@ -30,11 +30,11 @@ const features =
     title: 'Detailed Analysis',
     description: 'Get comprehensive verification details and accuracy scores'
   },
-  {
-    icon: Brain,
-    title: 'AI-Powered',
-    description: 'State-of-the-art AI model for precise content analysis'
-  }
+  // {
+  //   icon: Brain,
+  //   title: 'AI-Powered',
+  //   description: 'State-of-the-art AI model for precise content analysis'
+  // }
 ];
 
 function Features() {
