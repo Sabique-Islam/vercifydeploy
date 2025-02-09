@@ -58,7 +58,7 @@ export default function Community() {
               variant="secondary"
               className="mt-4"
             >
-              <Link href="https://community-vercify.vercel.app">
+              <Link href="127.0.0.1:5000">
                 Try Now <ArrowRight className="ml-2 h-4 w-4" />
               </Link>
             </Button>
